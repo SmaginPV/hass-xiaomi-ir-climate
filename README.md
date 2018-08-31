@@ -1,5 +1,5 @@
 # hass-xiaomi-ir-climate
-
+```yaml
 climate:
   - platform: xiaomi_miio
     name: Name
@@ -22,3 +22,4 @@ climate:
         - high
         - mid
         - low
+```
